@@ -1,7 +1,11 @@
 ## BehSA (Bugs and Errors Helper by SintexysAI)
 BehSA é um assistente inteligente de linha de comando voltado para desenvolvedores que precisam resolver erros rapidamente.
 
-Basta encontrar qualquer erro no terminal, executar "behsa /help me" e receber imediatamente uma análise técnica estruturada, com causa raiz, explicação e comando ou ação exata para corrigir o problema.
+Basta encontrar qualquer erro no terminal, executar nosso comando original (aqui em baixo) e nossa IA responderá instantaneamente
+
+```
+behsa /help me
+```
 
 *🔍 Motor de IA avançado que identifica linguagens, interpreta tracebacks e sugere correções precisas.*
 
